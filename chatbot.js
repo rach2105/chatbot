@@ -10,6 +10,7 @@ const responses = {
     "hi": "Hello!",
     "how are you": "I'm good, thanks!",
     "what is your name": "I'm Chatbot!",
+    "what is 20+10":"answer is 30",
     "what can you do": "I can chat, tell jokes, and provide information.",
     "joke": "Why did the computer go to the doctor? It had a virus!",
     "who created you": "I was created by a team of developers.",
